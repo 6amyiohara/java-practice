@@ -13,3 +13,6 @@ Personal development log — notes, findings, and ongoing work.
 - Improved error handling in edge cases
 - Verified API endpoint response schema
 - Cross-checked behaviour against spec
+
+## 2026-04-29
+- Improved log message formatting
